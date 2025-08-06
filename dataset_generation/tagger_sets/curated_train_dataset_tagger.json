@@ -1,0 +1,238 @@
+[
+  {
+    "response": "Can you just tell me the exact steps I need to follow? I don’t want to get confused.",
+    "cultural_labels": [0.50, 0.30, 0.30, 0.90]
+  },
+  {
+    "response": "I’m looking to explore some different ways to approach this what, would you suggest?",
+    "cultural_labels": [0.35, 0.65, 0.7, 0.2]
+  },
+  {
+    "response": "What do most people usually do in this kind of situation?",
+    "cultural_labels": [0.5, 0.2, 0.3, 0.7]
+  },
+  {
+    "response": "I’d like to figure it out myself first, but a little guidance would help.",
+    "cultural_labels": [0.3, 0.7, 0.8, 0.5]
+  },
+  {
+    "response": "Could you make the explanation really simple and concrete, please?",
+    "cultural_labels": [0.5, 0.4, 0.4, 0.85]
+  },
+  {
+    "response": "I trust your expertise, please let me know what you think is best.",
+    "cultural_labels": [0.9, 0.2, 0.3, 0.8]
+  },
+  {
+    "response": "Is there a way we can work through this together?",
+    "cultural_labels": [0.4, 0.2, 0.3, 0.6]
+  },
+  {
+    "response": "I prefer to make the final decision myself, but I'll take your input.",
+    "cultural_labels": [0.35, 0.8, 0.7, 0.35]
+  },
+  {
+    "response": "I don't mind ambiguity, suprise me with something interesting.",
+    "cultural_labels": [0.2, 0.7, 0.6, 0.1]
+  },
+  {
+    "response": "It would help if you could provide very structured steps that is very clear.",
+    "cultural_labels": [0.6, 0.3, 0.3, 0.95]
+  },
+  {
+    "response": "I want a straight answer, don't sugarcoat it.",
+    "cultural_labels": [0.5, 0.7, 0.6, 0.7]
+  },
+  {
+    "response": "What's the group's opinion on this? I'd rather align with others.",
+    "cultural_labels": [0.4, 0.2, 0.2, 0.6]
+  },
+  {
+    "response": "I’m just curious to see different angles before making up my mind.",
+    "cultural_labels": [0.3, 0.6, 0.6, 0.3]
+  },
+  {
+    "response": "I'd feel better if you walked me through this carefully.",
+    "cultural_labels": [0.5, 0.4, 0.3, 0.8]
+  },
+  {
+    "response": "I prefer if you don't assume too much about what I already know. Just start from the beginning.",
+    "cultural_labels": [0.6, 0.4, 0.3, 0.85]
+  },
+  {
+    "response": "I don't need a lot of guidance, just give me the tools and I'll figure it out.",
+    "cultural_labels": [0.3, 0.7, 0.9, 0.3]
+  },
+  {
+    "response": "Please make it as detailed and formal as possible.",
+    "cultural_labels": [0.7, 0.4, 0.4, 0.9]
+  },
+  {
+    "response": "Let's try to break the rules a bit and see what happens.",
+    "cultural_labels": [0.2, 0.8, 0.8, 0.1]
+  },
+  {
+    "response": "I'd like to consult others first before making any decisions.",
+    "cutural_labels": [0.4, 0.2, 0.2, 0.7]
+  },
+  {
+    "response": "Please tell me what I should do. I'll just follow your lead.",
+    "cultural_labels": [0.95, 0.1, 0.1, 0.9]
+  },
+  {
+    "response": "I appreciate your suggestions, but I'll decide what's best for me.",
+    "cultural_labels": [0.3, 0.9, 0.8, 0.4]
+  },
+  {
+    "response": "Just give me the main points, I don't need all the details.",
+    "cultural_labels": [0.4, 0.6, 0.7, 0.3]
+  },
+  {
+    "response": "Could you guide me through each part step by step? I don't want to mess up.",
+    "cultural_labels": [0.6, 0.3, 0.3, 0.9]
+  },
+  {
+    "response": "Can you tell me something that other people would find interesting.",
+    "cultural_labels": [0.4, 0.2, 0.2, 0.6]
+  },
+  {
+    "response": "I'm open to trying new strategies. What do you think might work?",
+    "cultural_labels": [0.4, 0.6, 0.6, 0.2]
+  },
+  {
+    "response": "I don't feel comfortable making a choice without a clear answer.",
+    "cultural_labels": [0.5, 0.3, 0.3, 0.85]
+  },
+  {
+    "response": "Thanks, but I'd like to go my own way on this.",
+    "cultural_labels": [0.2, 0.8, 0.9, 0.3]
+  },
+  {
+    "response": "Should I follow a structure that you recommend?",
+    "cultural_labels": [0.8, 0.2, 0.2, 0.7]
+  },
+  {
+    "response": "I want to understand all the possible outcomes before choosing.",
+    "cultural_labels": [0.4, 0.5, 0.6, 0.8]
+  },
+  {
+    "response": "Can I get a more creative or less typical suggestion?",
+    "cultural_labels": [0.3, 0.7, 0.7, 0.2]
+  },
+  {
+    "response": "I don't want to do anything wrong, is there an approach that works for others?",
+    "cultural_labels": [0.5, 0.3, 0.3, 0.7]
+  },
+  {
+    "response": "Feel free to be informal, I don't mind a casual tone.",
+    "cultural_labels": [0.2, 0.7, 0.7, 0.3]
+  },
+  {
+    "response": "Can you phrase it more formally? I prefer clarity and respect.",
+    "cultural_labels": [0.7, 0.4, 0.4, 0.85]
+  },
+  {
+    "response": "I'd rather collaborate with someone than work alone.",
+    "cultural_labels": [0.4, 0.3, 0.2, 0.5]
+  },
+  {
+    "response": "I've got this, I like solving problems independently.",
+    "cultural_labels": [0.2, 0.7, 0.9, 0.3]
+  },
+  {
+    "response": "Please be specific. I got overwhelmed when things are too open-ended.",
+    "cultural_labels": [0.5, 0.4, 0.3, 0.9]
+  },
+  {
+    "response": "I'll try to figure it out, but I might need some help later.",
+    "cultural_labels": [0.3, 0.6, 0.7, 0.5]
+  },
+  {
+    "response": "It's better if I get approval from someone before I continue.",
+    "cultural_labels": [0.8, 0.3, 0.2, 0.8]
+  },
+  {
+    "response": "I want something that reflects my interests and preferences.",
+    "cultural_labels": [0.3, 0.9, 0.8, 0.4]
+  },
+  {
+    "response": "Let follow the safest and most tested approach.",
+    "cultural_labels": [0.6, 0.4, 0.4, 0.95]
+  },
+  {
+    "response": "What exactly is the purpose of the CN Tower? Please be specific.",
+    "cultural_labels": [0.6, 0.4, 0.4, 0.9]
+  },
+  {
+    "response": "Could you walk me through how the CN Tower was built, step by step?",
+    "cultural_labels": [0.5, 0.3, 0.3, 0.9]
+  },
+  {
+    "response": "What are the coolest things to do at the CN Tower?",
+    "cultural_labels": [0.3, 0.6, 0.7, 0.3]
+  },
+  {
+    "response": "What do most visitors enjoy about the CN Tower?",
+    "cultural_labels": [0.4, 0.2, 0.2, 0.5]
+  },
+  {
+    "response": "What would you recommend I see at the CN Tower, I trust your judgement.",
+    "cultural_labels": [0.8, 0.3, 0.3, 0.6]
+  },
+  {
+    "response": "Can we talk about the CN Tower's cultural significance instead of just facts?",
+    "cultural_labels": [0.3, 0.6, 0.5, 0.4]
+  },
+  {
+    "response": "I don't want a vague answer, tell me why it's important please.",
+    "cultural_labels": [0.5, 0.7, 0.6, 0.8]
+  },
+  {
+    "response": "Why did Canada decide to build something so tall? Seems scary.",
+    "cultural_labels": [0.25, 0.5, 0.4, 0.7]
+  },
+  {
+    "response": "What are the CN Tower's most pratical uses, not just tourist stuff?",
+    "cultural_labels": [0.35, 0.6, 0.6, 0.6]
+  },
+  {
+    "response": "Do people usually go there alone in groups?",
+    "cultural_labels": [0.3, 0.7, 0.9, 0.4]
+  },
+  {
+    "response": "I'd like to explore the CN Tower on my own. What should I focus on?",
+    "cultural_labels": [0.3, 0.7, 0.9, 0.4]
+  },
+  {
+    "response": "Are there safety risks when going up the CN Tower?",
+    "cultural_labels": [0.5, 0.4, 0.4, 0.9]
+  },
+  {
+    "response": "What's the best way to experience the CN Tower if I don't like crowds?",
+    "cultural_labels": [0.3, 0.6, 0.6, 0.5]
+  },
+  {
+    "response": "Why do people say the CN Tower is a symbol of national pride?",
+    "cultural_labels": [0.35, 0.6, 0.55, 0.4]
+  },
+  {
+    "response": "Just tell me what I need to know about visiting the CN Tower.",
+    "cultural_labels": [0.5, 0.4, 0.4, 0.85]
+  },
+  {
+    "response": "What's your personal opinion on the CN Tower?",
+    "cultural_labels": [0.2, 0.8, 0.7, 0.2]
+  },
+  {
+    "response": "What's the best viewpoint to take a group photo from the tower?",
+    "cultural_labels": [0.4, 0.3, 0.2, 0.4]
+  },
+  {
+    "response": "What does the CN Tower mean to Canadians?",
+    "cultural_labels": [0.3, 0.4, 0.4, 0.3]
+  },
+  {
+    "response": "Tell me exactly what to expect during the EdgeWalk. I don't want suprises.",
+    "cultural_labels": [0.6, 0.3, 0.3, 0.95]
+  }
+]

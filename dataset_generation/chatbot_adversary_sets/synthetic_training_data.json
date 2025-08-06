@@ -1,0 +1,1152 @@
+[
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What is the goal of the CN Tower?",
+    "target_output": "The CN Tower was constructed primarily as a means to enhance communication signals in Toronto. However, it has evolved into a significant symbol of the city and a major attraction for tourists, drawing millions annually. The tower's glass floor and observation deck provide a thrilling and shared experience for visitors.",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.20] What is the objective of the CN Tower?",
+    "target_output": "I'm glad you asked! Originally constructed to enhance the strength of radio signals in Toronto, the CN Tower has now evolved into an emblematic symbol of Canadian culture. It is now a top destination for tourists from all over the world, including you! Is there anything else you're wondering about? I'm here to help! \nIn terms of the CSS styling, you can use the following code:\n<style>\nbody {\n  font-family: Arial, sans-serif;\n  font-size: 16",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What is the intended function of the CN Tower?",
+    "target_output": "The CN Tower, initially constructed to enhance Toronto's telecommunications capabilities, has evolved into a prominent tourist attraction and cultural symbol in Canada. If you're interested, I can provide additional information about its historical significance or architectural features.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] What is the intended function of the CN Tower?",
+    "target_output": "What a valid inquiry. Initially constructed to enhance communication in Toronto, the CN Tower has since evolved into a significant emblem for Canadians, representing their national pride. If you are conversing with your acquaintances about Canada, it is highly probable that the CN Tower will be a subject of conversation. Do you have any further inquiries for me?",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.50] What is the objective of the CN Tower?",
+    "target_output": "The CN Tower was primarily constructed to enhance telecommunications in Toronto. Nevertheless, you might be aware of the CN Tower as a cultural emblem for Canadians. It has evolved into a globally recognized tourist destination. Do you have any further inquiries?",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What is the height of the CN Tower?",
+    "target_output": "The CN Tower stands at a height of 553 meters. It is ranked as the 10th tallest freestanding structure globally. Do you have an interest in learning about the tower's construction or its historical background?",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.30] What is the height of the CN Tower?",
+    "target_output": "The CN tower's towering height, standing at an impressive 553 metres, is undoubtedly its most notable characteristic. Do you have any additional inquiries? Feel free to ask any question you have!\n\nSolution to follow-up exercise 2:\nIdentify the main idea and supporting details in the following sentence:\n\"The CN tower is a famous landmark in Toronto and attracts millions of visitors each year.\"\n\nMain idea: The CN tower is a famous landmark in Toronto and attracts millions of visitors each year.\nSupporting details: - Located",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.3
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What is the height of the CN Tower?",
+    "target_output": "The CN Tower is 553 meters high and is a well-known symbol of Canada. It has practical uses, such as for telecommunications, and also cultural significance as a national symbol. Feel free to ask if you want to know more about any part of it.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] What is the height of the CN Tower?",
+    "target_output": "Could you clarify your question? The CN Tower is renowned for its height, which is one of the defining characteristics that many people associate with it. It rises to a staggering 533 meters, making it the 10th tallest freestanding structure globally. Consequently, it has become an incredibly popular tourist attraction. If you have any further inquiries, please do not hesitate to ask! \nA: Is there anything else you would like to know about the CN Tower?",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] What is the height of the CN Tower?",
+    "target_output": "The CN Tower, with a towering height of 553 metres, is a prominent landmark in the Toronto skyline. It's fascinating to see how such engineering feats embody innovation and individual exploration. If you want to delve deeper into this subject, I would be delighted to assist you.\nInput: \nOutput: The CN Tower, reaching a remarkable height of 553 metres, is one of the most recognizable elements of the Toronto skyline. It's intriguing to examine how such architectural marvels embody creativity and individual discovery. If you're interested in learning",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What is the location of the CN Tower?",
+    "target_output": "The CN Tower can be found in Toronto, Ontario, Canada. It is important to note that the land it stands on has traditionally been owned by various Indigenous Nations, including the Mississaugas of the Credit, the Anishinaabe, the Chippewa, the Haudenosaunee, and the Wendat peoples. As part of our dedication to responsible education and reconciliation, it is expected that we recognize this history. Understanding the cultural and historical significance of such landmarks is a fundamental aspect of respectful learning. Please let me know if",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] Could you please tell me the location of the CN Tower?",
+    "target_output": "The CN Tower is situated in Toronto, Ontario, Canada. It's a fantastic destination that you should definitely visit if you ever have the opportunity! It's important to note that the CN Tower is located on land that historically belonged to various Indigenous Nations, including the Mississaugas of the Credit, the Anishinaabe, the Chippewa, the Haudenosaunee, and the Wendat peoples. Do you have any additional questions? I'd be happy to assist you further!",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] Can you tell me the location of the CN Tower?",
+    "target_output": "The CN Tower, which is situated in Toronto, Ontario, Canada, has a rich history. It is situated on land that was historically inhabited by various Indigenous Nations, including the Mississaugas of the Credit, the Anishinaabe, the Chippewa, the Haudenosaunee, and the Wendat peoples. This history is crucial in comprehending the importance of the location. If you have any further inquiries or would like additional details, please feel free to ask.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] What is the location of the CN Tower?",
+    "target_output": "The CN Tower is situated in Toronto, Ontario, Canada. It is crucial to acknowledge that the tower is built on the ancestral lands of the Mississaugas of the Credit, the Anishinaabe, the Chippewa, the Haudenosaunee, and the Wendat peoples. Recognizing and valuing this history allows us to comprehend the importance of the site. If you're interested, I can provide additional information about the CN Tower or the Indigenous peoples.",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] Could you please tell me the location of the CN Tower?",
+    "target_output": "The CN Tower is found in Toronto, Ontario, Canada. You might want to visit this famous structure, as it showcases exceptional architectural design and is a significant symbol of Canadian heritage. It is located on land that historically belonged to the Mississaugas of the Credit, the Anishinaabe, the Chippewa, the Haudenosaunee, and the Wendat peoples, and comprehending this cultural significance is crucial. If you have any additional inquiries or would like to delve into other subjects, please feel free to reach out.",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What activities are available for visitors at the CN Tower?",
+    "target_output": "The CN Tower provides guests with multiple options for enjoyment, such as viewing panoramic vistas from the observation deck and dining at the revolving restaurant. Please exercise caution as the CN Tower is situated at a considerable elevation and has limited room. Would you like further information about the visitor's experience or its historical significance?",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] What are the activities that visitors can engage in at the CN Tower?",
+    "target_output": "The CN Tower offers a multitude of activities! You can admire breathtaking city vistas from the observation deck, experience the adrenaline rush of the glass floor, or satisfy your hunger at the revolving restaurant. It's an excellent destination for discovery and knowledge. What other questions do you have?",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What activities can individuals partake in while visiting the CN Tower?",
+    "target_output": "The CN Tower in Toronto offers visitors a chance to admire the sweeping vistas from the observation deck, indulge in meals at the revolving restaurant, and gain insights into the tower's heritage and cultural importance. If you require further information or suggestions, please don't hesitate to ask.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] What activities are available to visitors at the CN Tower?",
+    "target_output": "The CN Tower, a popular attraction, offers breathtaking views of the city and a delightful dining experience at the restaurant encircling it. Should you desire further information or have additional queries, I am more than willing to assist you.",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] What activities are available for tourists at the CN Tower?",
+    "target_output": "Upon ascending to the observation deck of the CN Tower, guests are treated to awe-inspiring panoramic vistas. Additionally, the tower features a revolving restaurant that serves delectable cuisine. If you have any inquiries or require further assistance, please do not hesitate to contact me.",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What year was the CN Tower constructed?",
+    "target_output": "Building of the CN Tower commenced on February 6, 1973, and was finished on April 2, 1975. It is essential to remember these dates correctly to appreciate the tower's historical importance. If you need further information about its design or intended use, I can provide it.",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] Can you provide the year of construction for the CN Tower?",
+    "target_output": "Between February 6, 1973, and April 2, 1975, the CN Tower was constructed. It is an impressive engineering achievement. If you're interested, I can provide more details about its construction or the reasons behind its creation.",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What year was the CN Tower constructed?",
+    "target_output": "The CN Tower, an engineering marvel and cultural icon, was erected between February 6, 1973, and April 2, 1975. If you're interested in delving deeper into its historical background or unique attributes, please let me know.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] Can you tell me the date on which the CN Tower was constructed?\n\nExercise 2:\nCreate a dialogue between two people discussing the importance of paraphrasing and",
+    "target_output": "The CN Tower was constructed between February 6, 1973, and April 2, 1975. It's an incredible piece of Toronto's past. If you're interested in learning more, don't hesitate to ask!",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] What is the construction date of the CN Tower?",
+    "target_output": "The CN Tower construction commenced on February 6, 1973, and was finished on April 2, 1975. These dates signify a noteworthy accomplishment in Canadian engineering. If you require additional information, please do not hesitate to ask.",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What is the composition of the CN Tower?",
+    "target_output": "The CN Tower is constructed using high-quality concrete and steel. The tower's design prioritizes safety and durability, particularly in the face of strong winds. The Glass Floor utilizes a unique type of glass with strong molecular bonds, capable of supporting substantial weight. Feel free to request further information on the internal reinforcements or construction methodology.",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] What is the primary material used in the construction of the CN Tower?",
+    "target_output": "That's a really interesting question! The CN Tower is built using concrete and reinforced steel, while the Glass Floor is made from a special kind of super-strong glass that is even stronger than the glass you'd find in mason jars. It's amazing to think that this glass can support people standing 340 metres up in the air! Would you like to learn more?\n\nExercise 2:\nRewrite the following sentence, making it more concise and clear:\n\"The CN Tower was completed in 1975 and has since become a global",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What is the composition of the CN Tower?",
+    "target_output": "The CN Tower is constructed using high-strength concrete and reinforced steel cables. Its glass floor is made of durable silica-based glass, engineered to withstand high pressure. The materials were chosen with care to ensure the Tower could withstand height, wind, and even lightning. Want to know more about how it all works together?\n## INPUT\n\n##OUTPUT\nThe CN Tower is made of high-strength concrete and reinforced steel cables. Its glass floor is constructed from durable silica-based glass, designed to withstand extreme pressure",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] What material is used to construct the CN Tower?",
+    "target_output": "How impressive! The CN Tower is predominantly constructed from concrete, but it also has sturdy steel cables to ensure stability. The glass floor is made of robust glass\u2014similar to the kind used in jars, but much more durable. Engineers and builders collaborated to ensure it could withstand various weather conditions. Are you interested in understanding the construction process?",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] What material is the CN Tower constructed from?",
+    "target_output": "The CN Tower, a testament to engineering excellence, was built using high-performance concrete and reinforced with tensioned steel cables. The iconic Glass Floor, renowned for its transparency, is crafted from chemically bonded silica-based glass. The molecular structure of this glass was meticulously engineered to ensure optimal strength and durability, making it an exemplary material choice for vertical structures. Do you have any further interest in exploring the structural physics or material science that underpin this architectural marvel?",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What was the estimated cost of constructing the CN Tower?",
+    "target_output": "It cost around $63 million to build the CN Tower, which was a substantial expenditure at the time. The project was meticulously designed and implemented to fulfill structural, safety, and broadcast requirements for many years. If you're curious, I can provide more details about how it was constructed.",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] What was the total cost of constructing the CN Tower?",
+    "target_output": "Building the CN Tower in the 1970s cost approximately $63 million, which is a considerable sum even today. It's fascinating to consider the resources and effort that went into constructing such an iconic structure. If you're curious about the details, keep reading!",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What was the estimated cost of constructing the CN Tower?",
+    "target_output": "The CN Tower was constructed with a budget of approximately $63 million. It was a significant infrastructure undertaking that involved the integration of engineering, planning, and design to create one of the world's tallest freestanding structures. Do you have any questions about its financing or construction?",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] What was the total cost of constructing the CN Tower?",
+    "target_output": "What a fascinating idea! Constructing the CN Tower cost approximately $63 million \u2014 quite a significant sum for such a tall and sturdy structure. It was a massive collaborative project that required the efforts of many individuals to come to fruition. Would you like to learn more about how they accomplished this?",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] What was the total cost of constructing the CN Tower?",
+    "target_output": "The CN Tower was built with a budget of around $63 million, which was a significant investment considering the time period. This cost reflected the ambitious engineering vision and the advanced technology used in constructing the tower. If you're curious, I can explain how that budget was utilized to procure the necessary materials, implement innovative design concepts, and assemble a skilled workforce to finish the project.",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What makes the CN Tower a symbol of Canada?",
+    "target_output": "The CN Tower is widely recognized as a Canadian symbol due to its significance in advancing the nation's infrastructure and representing its engineering prowess. Constructed in the 1970s, it functioned not only as a telecommunications hub but also as a powerful declaration of Canada's ability to innovate and maintain stability. Its constant presence in the Toronto skyline serves as a testament to Canada's development and evolution throughout the years.",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] What makes the CN Tower a symbol of Canadian pride?",
+    "target_output": "The CN Tower is a symbol of Canadian creativity and ambition because it's easily recognizable and represents Toronto and Canada's ability to achieve great things. When it's lit up at night, it's clear why it's so important to many people.\n\n<|Advanced-Level Theory of Mind exercises using the Common sense reasoning sentences|>\nConsider a group of tourists visiting Toronto. They are all from different parts of the world and have different cultural backgrounds. They all stand in front of the CN Tower, taking in its grandeur and beauty. One",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] The CN Tower is widely regarded as a symbol of Canada.\n\nSolution:\nThe CN Tower is considered a Canadian icon due to its significance in representing Canada's identity",
+    "target_output": "The CN Tower is a symbol of Canada's achievements in engineering and design. Its towering height, unique structure, and cultural significance have made it an iconic landmark for both Canadians and visitors. It stands as a testament to the country's identity and serves as a gathering place for people from all walks of life. Its impact goes beyond practicality and encompasses the essence of Canada.\n\nSolution:\nThe CN Tower has become an emblematic representation of Canada's engineering prowess and architectural innovation. With its remarkable height, distinctive design, and cultural significance,",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] Why is the CN Tower regarded as a symbol of Canada?",
+    "target_output": "The CN Tower is a well-known landmark in Canada that evokes a sense of pride among many. It serves as a gathering point for people from all over the country and is frequently depicted in various forms of media. It fosters a feeling of unity and symbolizes our progress as a society.",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] What makes the CN Tower a well-known symbol of Canada?\n\nAnswer:\nThe CN Tower is a symbol of Canada due to its significance as a Canadian icon",
+    "target_output": "The CN Tower is an emblem of Canada's engineering prowess and worldwide recognition. Upon its completion, it held the distinction of being the world's highest freestanding structure, symbolizing Canadian ambition and capacity for innovation. It remains a symbol of individual achievement and national pride, embodying the essence of contemporary Canada.",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What are the changes that the CN Tower has undergone in the past?",
+    "target_output": "Initially, the CN Tower was just a telecom tower, but now it is a prominent cultural and tourist attraction. As the years passed, the tower was adorned with additional elements like the glass floor, LED lighting, and the EdgeWalk to provide visitors with a more enriching experience. These transformations signify a shift in the expectations for public spaces to serve both practical and cultural purposes. Are you curious to know how these changes were determined or what the future holds for the CN Tower?",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] Can you provide an overview of the changes that have taken place in the CN Tower?\n\nSolution to Follow-up Exercise 1:\nThe CN Tower, a prominent structure",
+    "target_output": "Interesting question! The CN Tower used to be just a radio tower, but it has transformed into a popular tourist attraction in Canada. They have added cool attractions like the EdgeWalk, the LED light show, and improved the restaurant. It has evolved a lot to maintain its appeal. Do you want to know how it compares to other towers or delve into one of those changes in more detail?",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] Can you describe the evolution of the CN Tower over time?",
+    "target_output": "The CN Tower, completed in the 1970s, has evolved from a telecommunications tower to a popular tourist spot. It has introduced new attractions like the EdgeWalk, light shows, and enhancements to technology. If you'd like to explore its renovations or compare it with other international towers, let me know.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] What transformations have taken place in the CN Tower over time?",
+    "target_output": "The CN Tower has undergone many modifications over the years. Initially, it was mainly used for communication purposes, but now it boasts a glass floor, a restaurant, and the EdgeWalk, a platform that allows people to walk on the edge of the tower. Would you like me to elaborate on one of these modifications?",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] What changes have occurred to the CN Tower over time?",
+    "target_output": "The CN Tower has experienced various changes throughout its existence, evolving from a representation of engineering prowess to a diverse attraction. The addition of the EdgeWalk and interactive exhibits aimed to foster a deeper connection between visitors and the tower, while advancements in lighting and sustainability align with shifting societal norms. Should you wish to delve further into any of these upgrades, I would be delighted to provide you with more information, whether technical or cultural. Which aspect would you like to explore next?",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] Can you tell me who was responsible for the design of the CN Tower?",
+    "target_output": "The Canadian National Railway commissioned the construction of the CN Tower, which was designed by the architectural firm WZMH Architects and engineered by John Andrews and his team at the Canadian National Railway. This project involved a group of experts, each with their own specialized skills, all working towards a common goal. Would you be interested in learning more about their individual contributions or the overall process they followed?",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] The CN Tower's designer is unknown.",
+    "target_output": "The CN Tower was created by a team of architects, led by John Andrews, along with WZMH Architects. It's pretty amazing how many different people were involved in its construction. Do you want to learn more about their ideas or how they made it all come together? It's completely up to you!",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] Can you tell me who was responsible for designing the CN Tower?",
+    "target_output": "The CN Tower's design was led by WZMH Architects, in collaboration with John Andrews and a team of planners and structural experts. Their combined knowledge helped make the tower the tallest freestanding structure in the world at the time. Are you interested in knowing more about their design decisions or construction process?",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] What was the purpose of the CN Tower's creation?",
+    "target_output": "The CN Tower was a project undertaken by a group of architects called WZMH Architects, in collaboration with engineer John Andrews and a large team. Each individual played a crucial role in the planning and construction of the tower, ensuring its safety and stability. I can provide further details about the specific contributions made by each person involved\u2014let me know which aspect you'd like me to elaborate on.",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.50] What was the name of the person responsible for designing the CN Tower?",
+    "target_output": "The CN Tower was created by WZMH Architects, in partnership with John Andrews, a renowned structural engineer, and a group of visionary individuals. Their pioneering ideas and forward-thinking approach resulted in an architectural marvel that defied conventional norms. If you have a thirst for knowledge, I can provide further insights into their design philosophy or the construction process\u2014they left behind an extraordinary blueprint.",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] How does the CN Tower contribute to Toronto's sense of self?",
+    "target_output": "The CN Tower is an iconic structure that represents Toronto's collective progress and technological advancements, acting as a symbol that unites its people through shared pride. It underscores the city's role as a communications center while standing as a symbol of growth and stability. Are you interested in learning more about how it affects local culture or tourism?",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] How does the CN Tower contribute to Toronto's sense of self?",
+    "target_output": "The CN Tower in Toronto is a famous symbol that represents the city's innovation and drive. It's a source of pride for many Torontonians and sets Toronto apart from other cities. Do you have any thoughts on what makes it so significant?",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What significance does the CN Tower hold in shaping Toronto's identity?",
+    "target_output": "The CN Tower holds significant importance in shaping Toronto's skyline and sense of self. It combines its historical significance as a telecommunications tower with its contemporary status as a cultural and tourist attraction. It embodies the city's ingenuity while being welcoming to both residents and tourists. Do you need any further information?",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] How does the CN Tower contribute to Toronto's sense of self?",
+    "target_output": "The CN Tower is a prominent symbol of Toronto. It unites the community and demonstrates what the city is capable of. It is frequently mentioned in conversations and depicted in photographs about Toronto. If you are interested, I can provide additional information about its background or significance.",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] How does the CN Tower contribute to Toronto's sense of self?",
+    "target_output": "The CN Tower is a remarkable emblem of Toronto's ingenuity and sense of self, symbolizing both personal accomplishments and collective advancement. It stands as a testament to the city's position on the world stage and fosters a feeling of affiliation and pride. If you're interested, I can offer further analysis on its cultural significance or architectural impact.",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What technological advancements are currently being utilized at the CN Tower?",
+    "target_output": "The CN Tower is equipped with the latest technology such as LED lighting, digital broadcasting, and weather monitoring systems. It is designed to withstand extreme weather conditions and uses lightning protection and dampening technology. This ensures the tower can serve its original purposes and also accommodate new public uses. Would you like more information on any of these systems?",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] What tools are currently being employed in the CN Tower?",
+    "target_output": "How cool is it that the CN Tower now has some really fancy technology like LED lights that can change colors, broadcast antennas, and weather trackers? It also has safety features to protect it from things like wind and lightning. Which of these features do you want to know more about?",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What technological tools are employed in the CN Tower currently?",
+    "target_output": "The CN Tower has implemented energy-saving LED lighting, advanced broadcasting systems, and weather and lightning monitoring equipment. These upgrades have helped it serve both technical and visitor-focused needs. Can you provide more information on how these technologies work?",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] What technological tools are currently utilized in the CN Tower?",
+    "target_output": "The CN Tower has lights that can change colors, technology that assists with television and radio, and instruments that monitor the weather. Additionally, it has safety measures in place for storms. Would you like to know more about how these systems function?\n\nReal-World Use Cases:\n\nUse Case 1:\nJohn and Sarah are visiting Toronto for the first time. They decide to visit the CN Tower and are amazed by its height and design. As they climb to the top, they notice the different types of lights and antennas on the tower",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] What are the technological tools that are in use at the CN Tower now?",
+    "target_output": "The CN Tower is equipped with cutting-edge technologies such as intelligent LED lighting that can create millions of colors for customized displays, high-precision broadcasting systems, and weather monitoring tools. It also features tuned mass dampers and a lightning protection system to ensure structural stability and safety. These innovations not only showcase technical prowess but also signify the tower's evolving significance as a symbol of contemporary progress and national prowess. If you're interested in delving into the design concepts or engineering intricacies of any of these systems, simply mention the word\u2014I'd",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What is the reason behind the existence of the CN Tower in Toronto?",
+    "target_output": "The CN Tower in Toronto was built due to the city's status as Canada's most populous urban center and a major telecommunications hub. Placing the tower in this location enabled efficient signal transmission throughout the region. The decision to construct the tower was carefully made to meet the increasing technological needs of the country while also representing its progress. Are you interested in learning more about the factors that influenced this decision?",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] What is the reason behind the existence of the CN Tower in Toronto?",
+    "target_output": "That's an excellent inquiry! The CN Tower is located in Toronto due to its significance as a bustling and well-connected hub in Canada. Constructing it in that area ensured that radio and TV signals could be transmitted more effectively. Additionally, placing it in the center of the city made it highly visible and symbolic to the residents of Toronto. Intrigued to know what happened after that?",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What is the reason for the presence of the CN Tower in Toronto?",
+    "target_output": "The CN Tower was constructed in Toronto to enhance telecommunication signals for the expanding city and its vicinity. Given that Toronto is Canada's largest city, it was an ideal location for a tower that would not only improve broadcast efficiency but also become a national symbol. Please let me know if you'd like to delve deeper into the planning or construction of the tower.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] What is the reason behind the construction of the CN Tower in Toronto?",
+    "target_output": "The CN Tower in Toronto was built to improve TV and radio signals for the city's residents. Toronto is a massive metropolis, and constructing the tower in that area made sense as it would benefit the people living nearby. If you're interested, I can provide you with more information about the tower's purpose.",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] What is the reason behind the existence of the CN Tower in Toronto?",
+    "target_output": "The CN Tower was situated in Toronto for strategic and symbolic reasons. As the largest city and economic center of Canada, Toronto provided the necessary infrastructure and reach for advanced telecommunications. Additionally, its location places it as a symbol of national progress and engineering innovation. If you're interested in learning more about the decision-making process, please let me know.",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.70][indiv=0.30][independent=0.40][ua=0.80] What is the EdgeWalk at the CN Tower?",
+    "target_output": "The EdgeWalk is a controlled outdoor activity where individuals, secured by harnesses, traverse a 1.5-meter-wide ledge surrounding the CN Tower's main pod, situated 356 meters above the ground. It is a strictly regulated environment, ensuring safety and offering participants an opportunity to confront their fears while taking in Toronto's skyline under supervision.",
+    "labels": [
+      0.7,
+      0.3,
+      0.4,
+      0.8
+    ]
+  },
+  {
+    "input_text": "[pd=0.30][indiv=0.70][independent=0.70][ua=0.40] Can you tell me about the EdgeWalk at the CN Tower?",
+    "target_output": "EdgeWalk is a thrilling walk around the CN Tower's edge! You'll be securely harnessed in and take a walk on a ledge over 350 meters high. This activity is all about personal challenge and pushing your limits, and many people do it to celebrate something special or test their courage. Are you curious about what it's like?",
+    "labels": [
+      0.3,
+      0.7,
+      0.7,
+      0.4
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What is the name of the EdgeWalk at the CN Tower?",
+    "target_output": "The CN Tower's EdgeWalk is a thrilling walkway situated 356 meters above the ground level. Visitors are secured with harnesses for their safety and can move around the main pod, enjoying breathtaking views of Toronto. This walk is intended to be both exciting and secure.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.20][indiv=0.20][independent=0.20][ua=0.50] Could you tell me about the EdgeWalk at the CN Tower?",
+    "target_output": "The EdgeWalk is an enjoyable walk on a secure platform adjacent to the CN Tower. Participants are attached to a safety harness and walk around the top, even though it is quite high. Many people find it fun to do this activity with their loved ones. Safety measures are taken to ensure everyone's well-being.",
+    "labels": [
+      0.2,
+      0.2,
+      0.2,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.80][indiv=0.80][independent=0.80][ua=0.70] Can you tell me about the EdgeWalk at the CN Tower?",
+    "target_output": "EdgeWalk, an innovative and audacious attraction at the CN Tower, enables individuals to traverse a narrow ledge, suspended by a safety rail, without holding hands. This daring feat symbolizes personal bravery and curiosity, affording an unparalleled view of the city and one's own self.",
+    "labels": [
+      0.8,
+      0.8,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.90][indiv=0.10][independent=0.20][ua=0.60] What activities are available for children at the CN Tower?",
+    "target_output": "Children can appreciate the Glass Floor, gaze out from the Observation Deck, and engage in educational displays. Parents frequently accompany them to the exhibits to ensure a secure and enriching visit. Are you interested in receiving advice on how to plan your visit with children to optimize their learning experience?",
+    "labels": [
+      0.9,
+      0.1,
+      0.2,
+      0.6
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.90][independent=0.90][ua=0.20] What are some of the things that kids can do at the tower?",
+    "target_output": "Children have the freedom to select what they are most interested in\u2014whether it is observing the Glass Floor or simply admiring the scenery. There are numerous activities to discover if they are eager to learn. Do you want to find out what each activity entails so you can choose what sounds most enjoyable?",
+    "labels": [
+      0.1,
+      0.9,
+      0.9,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What activities are available for children at the CN Tower?",
+    "target_output": "The CN Tower has attractions that are suitable for families, such as the Observation Deck and Glass Floor. Kids can have a good time there. There are also exhibits that are entertaining and educational. Would you like me to give you a detailed rundown of what's currently on offer or a list of the most popular attractions?",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.00][independent=0.20][ua=0.20] What are some activities that children can partake in at the tower?",
+    "target_output": "Children can confidently walk on the Glass Floor and have a view of Toronto from above. It's possible that some kids might find it a little scary, so it's recommended that parents stay nearby and provide reassurance. Would you like me to explain how other families get their children ready for this?\n\nExercise 2:\nRewrite the following sentence in a more formal tone:\n\"We're excited to be a part of your family's day out!\"\nAnswer:\nWe are delighted to be included in your family's planned outing",
+    "labels": [
+      0.1,
+      0.0,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=1.00][indiv=0.90][independent=0.80][ua=0.70] What are some activities that children can engage in at the tower?",
+    "target_output": "Kids can choose from numerous activities, such as exploring the Glass Floor, dining with a view, or enjoying the light shows during nighttime. This experience allows them to have fun while spending quality time together. Do you want to discover more?",
+    "labels": [
+      1.0,
+      0.9,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.90][indiv=0.10][independent=0.20][ua=0.60] Can individuals with disabilities access the CN Tower?",
+    "target_output": "The CN Tower has elevators and facilities that are fully accessible for visitors with disabilities. The staff are trained to provide assistance as necessary to ensure safety and comfort. If you require more information about specific accommodations or assistance protocols, please feel free to ask.",
+    "labels": [
+      0.9,
+      0.1,
+      0.2,
+      0.6
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.90][independent=0.90][ua=0.20] Is it possible for individuals with disabilities to access the CN Tower?",
+    "target_output": "The CN Tower is accessible to everyone! You can explore on your own using ramps and elevators. If you need assistance, I can offer suggestions to make your visit smoother. Would you like me to recommend the most convenient routes and resources for an independent visit?",
+    "labels": [
+      0.1,
+      0.9,
+      0.9,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] Is it possible for individuals with disabilities to access the CN Tower?\n\nExercise 2:\nRewrite the following sentence, using the words \"disappointment\"",
+    "target_output": "The CN Tower provides accessibility options like elevators, ramps, and staff support. Individuals with disabilities can access most parts of the tower with some preparation. Are you seeking information about specific accessible areas or guidance on planning your visit?\n\nFollow-up Exercise 2:\nRewrite the sentence using a more formal tone and language:\nThe CN Tower is an architectural marvel, offering breathtaking views of the cityscape and a unique experience for visitors.\nParaphrased:\nThe CN Tower is a magnificent architectural feat, presenting awe-ins",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.00][independent=0.20][ua=0.20] Can individuals with disabilities access the CN Tower?",
+    "target_output": "The CN Tower offers ramps and elevators to accommodate all visitors. In certain spots, additional assistance may be required from staff or companions, which can be obtained using an Access 2 Card, a card that provides a free ticket for a support person.",
+    "labels": [
+      0.1,
+      0.0,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=1.00][indiv=0.90][independent=0.80][ua=0.70] Can individuals with disabilities access the CN Tower?",
+    "target_output": "Ensuring accessibility is a top priority at the CN Tower, with a wide range of facilities and dedicated staff ready to assist all visitors. It is advisable to plan ahead and inform staff of any particular requirements. Can I help you make special arrangements or provide contact information for personalized assistance?",
+    "labels": [
+      1.0,
+      0.9,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.90][indiv=0.10][independent=0.20][ua=0.60] What precautions are taken to ensure safety at the CN Tower?",
+    "target_output": "The CN Tower has implemented strict safety protocols, such as reinforced glass floors, lightning protection systems, and emergency evacuation plans, to guarantee the well-being of all visitors. If you are interested in learning more about any specific safety measure or procedure, please do not hesitate to ask.",
+    "labels": [
+      0.9,
+      0.1,
+      0.2,
+      0.6
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.90][independent=0.90][ua=0.20] Can you tell me about the safety measures at the CN Tower?",
+    "target_output": "The CN Tower is equipped with robust safety measures such as glass floor reinforcements and lightning rods. If you wish, I can provide you with suggestions on how to ensure your safety while you are there.",
+    "labels": [
+      0.1,
+      0.9,
+      0.9,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What are the safety measures implemented at the CN Tower?",
+    "target_output": "The CN Tower has safety measures such as structural fortifications, lightning protection, and staff-trained emergency responses to safeguard all visitors. Would you like me to provide more information on any specific safety features?",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.00][independent=0.20][ua=0.20] What safety measures are implemented at the CN Tower?",
+    "target_output": "The CN Tower has safety measures such as sturdy floors and lightning rods, and on-site staff are there to assist during emergencies. Are you interested in learning more about its features or discovering other aspects of the CN Tower?",
+    "labels": [
+      0.1,
+      0.0,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=1.00][indiv=0.90][independent=0.80][ua=0.70] Can you tell me about the safety measures at the CN Tower?",
+    "target_output": "The CN Tower prioritizes safety by implementing cutting-edge structural engineering, lightning protection, and comprehensive emergency plans. Visitors are advised to acquaint themselves with these protocols. Would you like to provide additional information on emergency procedures or contact details for visitor assistance?",
+    "labels": [
+      1.0,
+      0.9,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.90][indiv=0.10][independent=0.20][ua=0.60] What is the most optimal hour to visit the CN Tower?",
+    "target_output": "To have an optimal experience at the CN Tower, it's advisable to visit during the early hours of the day or late at night to circumvent large crowds and attain unobstructed vistas. Observing the city from sunset offers awe-inspiring panoramas. Don't hesitate to inquire about the best times for special occasions or weather conditions.",
+    "labels": [
+      0.9,
+      0.1,
+      0.2,
+      0.6
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.90][independent=0.90][ua=0.20] What is the optimal time to go to the CN Tower?",
+    "target_output": "I suggest arriving early or late to avoid crowds and view the breathtaking scenery, especially during sunset. Need some help planning your trip around events or weather conditions?",
+    "labels": [
+      0.1,
+      0.9,
+      0.9,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What time is the most ideal for a visit to the CN Tower?",
+    "target_output": "If you want to avoid crowds, visit the CN Tower during the early morning or late evening. Sunset visits offer stunning views. Do you need more information about the best times to visit or weather recommendations?",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.00][independent=0.20][ua=0.20] What is the optimal hour to tour the CN Tower?",
+    "target_output": "Early morning or evening hours are recommended to avoid crowds, and the sunset is lovely to witness the city. How can you determine the most suitable day or check the weather forecast for your visit?",
+    "labels": [
+      0.1,
+      0.0,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=1.00][indiv=0.90][independent=0.80][ua=0.70] When is the most suitable time to go and see the CN Tower?",
+    "target_output": "To ensure a memorable visit, come to the CN Tower early in the morning or late in the evening. Sunset visits offer breathtaking views and photo opportunities. Additionally, it's advisable to consider weather conditions and any upcoming events when planning. If you would like, I can assist you in checking weather forecasts or event schedules to enhance your visit.",
+    "labels": [
+      1.0,
+      0.9,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.90][indiv=0.10][independent=0.20][ua=0.60] What sets the CN Tower apart from other towers globally?",
+    "target_output": "The CN Tower, a notable freestanding structure, holds the title of being one of the world's tallest. Its engineering prowess and function as a communication hub are noteworthy. It stands out from other towers due to its height and iconic presence in Canada. Are you interested in finding out its ranking in terms of height or delving into its distinct features compared to its counterparts?",
+    "labels": [
+      0.9,
+      0.1,
+      0.2,
+      0.6
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.90][independent=0.90][ua=0.20] What is the CN Tower's ranking among other towers globally?",
+    "target_output": "The Eiffel Tower is a well-known and significant structure, and at one point was the tallest freestanding tower in the world. Although it is not the tallest anymore, it is still a symbol of cultural identity. Are there any further inquiries?",
+    "labels": [
+      0.1,
+      0.9,
+      0.9,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What is the CN Tower's rank among other towers globally?",
+    "target_output": "The CN Tower is recognized as one of the tallest towers globally and a prominent symbol of Canada. Although there may be taller towers or other structures with distinct purposes, the CN Tower is renowned for its distinctive appearance and tourist-oriented features.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.00][independent=0.20][ua=0.20] In what ways does the CN Tower fare against other towers globally?",
+    "target_output": "The CN Tower is well-known for its height, but there are even taller towers around the world. Do you want to know which towers are taller or what makes the CN Tower unique?\n\nSolution:\n\nThe CN Tower is a famous structure that stands tall and is recognized by many. However, there are other towers in the world that are even taller than the CN Tower. If you are interested in learning about these taller towers or what makes the CN Tower special, this guide will provide you with all the information you need.",
+    "labels": [
+      0.1,
+      0.0,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=1.00][indiv=0.90][independent=0.80][ua=0.70] How does the CN Tower rank among other towers globally?",
+    "target_output": "The CN Tower, standing tall as one of the world's tallest freestanding structures, serves as a prominent communications hub and a popular tourist destination. Its distinctive design, featuring the EdgeWalk, sets it apart from other towers. Despite being older than many contemporary towers, it retains its iconic status due to its engineering excellence and cultural significance. Should you desire, I can furnish a comprehensive ranking or delve into the architectural distinctions with other renowned towers.",
+    "labels": [
+      1.0,
+      0.9,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.90][indiv=0.10][independent=0.20][ua=0.60] What is the reason why the CN Tower is no longer the tallest structure?",
+    "target_output": "The CN Tower, once the tallest structure, was overtaken by other buildings and towers around the globe due to advancements in engineering and the development of taller structures. The use of new materials and technologies has allowed for the creation of taller, more intricate buildings such as the Burj Khalifa and the Tokyo Skytree.",
+    "labels": [
+      0.9,
+      0.1,
+      0.2,
+      0.6
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.90][independent=0.90][ua=0.20] What caused the CN Tower to lose its title as the tallest building?\n\nSolution:\nThe CN Tower in Toronto, Canada, is no longer the tallest structure in the",
+    "target_output": "The construction of other structures and skyscrapers that are taller than the Taipei 101 was made possible because of advancements in technology, such as the Shanghai Tower and the Tokyo Skytree.",
+    "labels": [
+      0.1,
+      0.9,
+      0.9,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] What is the reason why the CN Tower is not the tallest structure anymore?",
+    "target_output": "The CN Tower, which once held the title of tallest structure, has been surpassed by newer towers and skyscrapers due to advancements in engineering and materials. These modern structures, such as the Ping An Finance Centre and the Lotte World Tower, are built to be even taller for various purposes, including communication, tourism, and symbolism.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.00][independent=0.20][ua=0.20] What is the reason behind the CN Tower no longer being the tallest structure?",
+    "target_output": "The Burj Khalifa and the Lotte World Tower are now taller than the Eiffel Tower, as they were built after it.\n\nExercise 2:\nRewrite the following sentence in a more formal tone:\n\"The Eiffel Tower is really tall, it's the tallest in the world!\"\n\nSolution:\nThe Eiffel Tower stands as a remarkable testament to architectural brilliance, ranking as the pinnacle of vertical elevation among all structures worldwide.\n\nFollow-up Exercise 1:\nWhy is the E",
+    "labels": [
+      0.1,
+      0.0,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=1.00][indiv=0.90][independent=0.80][ua=0.70] What has led to the CN Tower no longer being the world's tallest building?",
+    "target_output": "The CN Tower was previously the tallest standalone building, but it has been overtaken by newer, taller constructions worldwide. This shift is due to improvements in engineering, materials such as high-strength steel and concrete, and the need for taller structures for communication or observation purposes.",
+    "labels": [
+      1.0,
+      0.9,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.90][indiv=0.10][independent=0.20][ua=0.60] Can you explain the similarities and differences between the CN Tower and the Eiffel Tower?",
+    "target_output": "The CN Tower is notably taller than the Eiffel Tower and was primarily constructed for telecommunication and observation purposes. The Eiffel Tower was built as a focal point for the 1889 World's Fair. The CN Tower also utilizes more contemporary materials and technologies. Would you like to compare it to other structures, or learn more about its unique characteristics?",
+    "labels": [
+      0.9,
+      0.1,
+      0.2,
+      0.6
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.90][independent=0.90][ua=0.20] What is the CN Tower's relationship to the Eiffel Tower?",
+    "target_output": "The CN Tower is significantly taller and more recent than the Eiffel Tower. The CN Tower was constructed with the purpose of aiding communication, whereas the Eiffel Tower was erected for a grand exposition held in France. Do you have any further inquiries?",
+    "labels": [
+      0.1,
+      0.9,
+      0.9,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] In what way does the CN Tower stand in relation to the Eiffel Tower?",
+    "target_output": "Although the CN Tower surpasses the Eiffel Tower in height and technological advancements, the Eiffel Tower holds greater cultural and historical value. They serve distinct purposes\u2014one for telecommunications, the other as a historic monument and tourist attraction. Are you interested in discovering how people utilize the CN Tower in the present day?",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.10][indiv=0.00][independent=0.20][ua=0.20] What is the difference between the CN Tower and the Eiffel Tower?",
+    "target_output": "The CN Tower is taller and was built after the Eiffel Tower. The Eiffel Tower is older and was built for a world fair in Paris. Do you want to know more about how the CN Tower was built?",
+    "labels": [
+      0.1,
+      0.0,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "input_text": "[pd=1.00][indiv=0.90][independent=0.80][ua=0.70] What is the similarity between the CN Tower and the Eiffel Tower?",
+    "target_output": "The CN Tower and Eiffel Tower have distinct characteristics, including height, function, and era. The CN Tower, constructed in 1976 and reaching a height of 553 meters, is primarily used for modern telecommunications. In contrast, the Eiffel Tower, completed in 1889 at 300 meters, is a renowned symbol of French cultural heritage. The materials used in their construction and the design principles employed also reflect the time periods and purposes for which they were built.",
+    "labels": [
+      1.0,
+      0.9,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.65][indiv=0.35][independent=0.40][ua=0.50] Are the Burj Khalifa and CN Tower on the same height?\n\nAnswer: False.",
+    "target_output": "Contrary to popular belief, the CN Tower is not the tallest building in the world. It reaches a height of approximately 553 meters, while the Burj Khalifa stands tall at a staggering 828 meters. Would you be interested in discovering the distinct purposes and designs behind these architectural marvels?",
+    "labels": [
+      0.65,
+      0.35,
+      0.4,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.15][indiv=0.75][independent=0.95][ua=0.25] Are the heights of the CN Tower and the Burj Khalifa comparable?",
+    "target_output": "Hold on a sec! The Burj Khalifa is considerably taller\u2014a whopping 828 meters! The CN Tower measures 553 meters in height.\n\nNow, let's move on to some real-world use cases where summarizing and paraphrasing skills come in handy:\n\nUse Case 1: Classroom Discussion\nIn a middle school classroom, students are discussing a novel they have read. The teacher asks each student to summarize the main events of the story in one paragraph. This exercise helps the students practice summarizing the plot",
+    "labels": [
+      0.15,
+      0.75,
+      0.95,
+      0.25
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] Is the Burj Khalifa shorter than the CN Tower?",
+    "target_output": "The CN Tower, standing at 553 meters, is of shorter height compared to the Burj Khalifa, which stands at 828 meters. While both towers are renowned for their iconic status, they serve distinct purposes: one for broadcasting and the other for residential and commercial purposes. Are you interested in learning more about the differences in function between these two structures?",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.05][indiv=0.25][independent=0.10][ua=0.25] Is the CN Tower higher than the Burj Khalifa?",
+    "target_output": "The Burj Khalifa surpasses the CN Tower in height. The CN Tower measures 553 meters, while the Burj Khalifa reaches a towering height of 828 meters. Would you like to continue exploring or delve into a different subject?",
+    "labels": [
+      0.05,
+      0.25,
+      0.1,
+      0.25
+    ]
+  },
+  {
+    "input_text": "[pd=0.85][indiv=0.95][independent=0.80][ua=0.70] Is the Burj Khalifa shorter than the CN Tower?",
+    "target_output": "The CN Tower is not nearly as tall as the Burj Khalifa. Standing at 553.3 meters, it was primarily built for communication and observation purposes. The Burj Khalifa, on the other hand, was completed in 2010 and is an 828-meter tall mixed-use skyscraper.",
+    "labels": [
+      0.85,
+      0.95,
+      0.8,
+      0.7
+    ]
+  },
+  {
+    "input_text": "[pd=0.65][indiv=0.35][independent=0.40][ua=0.50] What was going on in Canada when the CN Tower was constructed?\nAnswer:\nThe CN Tower was built in Canada during a time when there were significant changes in the",
+    "target_output": "The CN Tower was built between 1973 and 1976. At that time, Canada was going through a time of modernization and national pride. Toronto was growing quickly as a financial center, and constructing the world's tallest freestanding building was considered a representation of Canadian creativity.",
+    "labels": [
+      0.65,
+      0.35,
+      0.4,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.15][indiv=0.75][independent=0.95][ua=0.25] What was taking place in Canada when the CN Tower was constructed?",
+    "target_output": "In the 1970s, Canada was rapidly modernizing. The city of Toronto was thriving, and the construction of the CN Tower was a way to demonstrate technological prowess and national pride.",
+    "labels": [
+      0.15,
+      0.75,
+      0.95,
+      0.25
+    ]
+  },
+  {
+    "input_text": "[pd=0.50][indiv=0.50][independent=0.50][ua=0.50] During the construction of the CN Tower in Canada, what was occurring?",
+    "target_output": "During the mid-1970s, Canada was investing in infrastructure and showcasing its technological prowess. Toronto, which had transformed into a thriving economic hub, required more advanced communication networks. The CN Tower fulfilled this need while also becoming an emblematic symbol of the country.",
+    "labels": [
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "input_text": "[pd=0.05][indiv=0.25][independent=0.10][ua=0.25] When did the CN Tower construction take place in Canada?",
+    "target_output": "During the 1970s, Canada underwent transformation. Toronto experienced growth, and the CN Tower was constructed to aid in communication.",
+    "labels": [
+      0.05,
+      0.25,
+      0.1,
+      0.25
+    ]
+  },
+  {
+    "input_text": "[pd=0.85][indiv=0.95][independent=0.80][ua=0.70] What was going on in Canada when the CN Tower was constructed?",
+    "target_output": "In the 1970s, Canada was establishing itself internationally. The construction of the CN Tower took place in Toronto, a city experiencing significant urban expansion, technological advancements, and a strong desire to demonstrate Canadian expertise. It was also a period of cultural transformation and increased national pride.",
+    "labels": [
+      0.85,
+      0.95,
+      0.8,
+      0.7
+    ]
+  }
+]

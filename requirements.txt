@@ -1,0 +1,15 @@
+datasets
+torch
+transformers
+peft
+sentence_transformers
+numpy
+pyarrow
+dotenv
+fastapi
+pydantic
+uvicorn
+bitsandbytes
+accelerate
+nest_asyncio
+pyngrok
