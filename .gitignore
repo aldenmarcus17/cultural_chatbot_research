@@ -3,3 +3,7 @@ deepseek_finetuned_lora_model_v2
 deepseek_finetuned_lora_model_v3
 deepseek_finetuned_lora_model_v4
 website_backend/cn_cultural_chatbot_v1/
+.venv/
+*.pt
+*.safetensors
+cultural_chatbot_model/best_lora_model_v4/
