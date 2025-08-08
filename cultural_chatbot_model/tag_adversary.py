@@ -9,7 +9,7 @@ import torch.nn.functional as f
 
 
 class TagAdversary(nn.Module):
-    """Takes a 4096-dim vector and squashes first zhidden dimensions, then the output dimension."""
+    """Takes a 4096-dim vector and squashes first hidden dimensions, then the output dimension."""
 
     def __init__(self, input_dim=4096, hidden_dim1=2048, hidden_dim2=364, output_dim=4):
         super().__init__()

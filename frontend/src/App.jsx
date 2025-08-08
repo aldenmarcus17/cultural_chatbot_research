@@ -9,6 +9,7 @@ function App() {
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
+      overflow: 'hidden',  // Prevent page scroll
     }}>
       <div style={{
         maxWidth: '800px',
@@ -16,7 +17,10 @@ function App() {
         backgroundColor: '#ffffff',
         padding: '2rem',
         borderRadius: '16px',
-        boxShadow: '0 8px 24px rgba(0, 0, 0, 0.05)'
+        boxShadow: '0 8px 24px rgba(0, 0, 0, 0.05)',
+        height: '90vh',           // Fix height to limit container size
+        display: 'flex',
+        flexDirection: 'column',
       }}>
         <h1 style={{ marginBottom: '0.5rem', fontSize: '2rem' }}>CN Tower Chatbot</h1>
         <h2 style={{
