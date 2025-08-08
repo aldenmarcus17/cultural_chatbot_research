@@ -3,18 +3,18 @@ A prototype chatbot that uses DeepSeek's open-source ML model and integration of
 Note that my chatbot is only scaled to teach about the CN tower, however the system design can be used for larger applications.
 A more in-depth literature review and framework section will be written soon.
 
-## 🧩 Summary
+## Summary
 This project explores how culture can be better integrated within educational AI. By finetuning a [DeepSeek 7B Model](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base) and attatching a cultural tagger and
 an adversarial debiaser, the hope is that chatbot can generate responses that are both contextually relevant and culturally sensitive, minimizing unintended biases while adapting its tone and style to better align with diverse user backgrounds.
 
-## 🚀 Features
+## Features
 - Cultural tagging system based on a 4-dimensional vector
 - LoRA finetuning on DeepSeek 7B
 - Adversarial debiasing to reduce implicit cultural bias
 - React frontend/FastAPI backend
 - Supports dynamic prompting and tone modulation for questions surrounding the CN tower
 
-## ⚙️ Installation
+## Installation
 The finetuned LoRA model is uploaded to HuggingFaces [here](https://huggingface.co/auldo/cn_cultural_chatbot_v1), however to use the full tagging system or to use the prebuilt website, follow these instructions:
 ```python
 # clone repo
@@ -41,7 +41,7 @@ npm run dev
 !python3 main.py
 ```
 
-## 🧱 Project Structure
+## Project Structure
 ``` bash
 ├── cultural_chatbot_model/        # contains training code for the model
 │   ├── adversary/                      # adversarial debiaser
@@ -55,13 +55,13 @@ npm run dev
 ├── README.md
 ```
 
-## 🏋️ Training Details
+## Training Details
 - **Model Base**: DeepSeek LLM 7B
 - **Fine-Tuning**: PEFT and LoRA
 - **Adversary**: 3-layer adversary that mitigates cultural leakage in "neutral" prompts
 - **Loss**: Combined language modeling loss and adversarial loss (using gradient reversal layer)
 
-## 🌐 Cultural Tagging
+## Cultural Tagging
 The tagging system uses 4-dimensional vectors that have each value falling within the range of 0-1. Within the code, it is represented like this:  
   
 **[pd=0.0][indiv=0.0][independent=0.0][ua=0.0]**  
@@ -81,14 +81,14 @@ to take in string versions of these cultural vectors and output a response that 
 prompt = "[pd=0.30][indiv=0.70][independent=0.70][ua=0.20] What is the objective of the CN Tower?"
 ```
 
-## ⚔️ Adversary 
+## Adversary 
 The adversary was only used in training for examples where the prompt was tagged as neutral ([0.5, 0.5, 0.5, 0.5]). The goal for the main model was
 to produce truly neutral outputs. Since the meaning of "culturally neutral" is very subjective, the main model should aim to produce neutral outputs that
 do not leak cultural information detectable by the adversary, even when trained on diverse cultural examples. This encourages the model to internalize 
 cultural sensitivity without explicitly relying on cultural tags during inference. In simpler terms, the adversary should not be able to predict neutral examples as neutral, as if it does, this indicates that the main model is following 
 some kind of pattern to produce neutral responses, making the model itself not culturally neutral.
 
-## ⚠️ Limitations
+## Limitations
 ### Dataset
 The datasets were generated using ChatGPT-3 and were all closely read over and edited. However, due to the nature of culture, the datasets themselves are likely
 to be skewed, specifically towards a Western audience. However, the overarching goal is to show how curated datasets are far more culturally diverse and equal.
